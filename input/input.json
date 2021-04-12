@@ -1,0 +1,22 @@
+{
+    "players": [
+        {
+            "name": "TheViper",
+            "keyfile": "theviper.pub"
+        },
+        {
+            "name": "TaToH",
+            "keyfile": "tatoh.pub"
+        }
+    ],
+    "pool": [
+        "RobinHood",
+        "Atila"
+    ],
+    "admins": [
+        {
+            "name": "admin",
+            "keyfile": "admin.pub"
+        }
+    ]
+}
