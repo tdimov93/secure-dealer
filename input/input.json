@@ -1,17 +1,17 @@
 {
     "players": [
         {
-            "name": "TheViper",
-            "keyfile": "theviper.pub"
+            "name": "Player1",
+            "keyfile": "player1.pub"
         },
         {
-            "name": "TaToH",
-            "keyfile": "tatoh.pub"
+            "name": "Player2",
+            "keyfile": "player2.pub"
         }
     ],
     "pool": [
-        "RobinHood",
-        "Atila"
+        "HiddenIdentity1",
+        "HiddenIdentity2"
     ],
     "admins": [
         {
